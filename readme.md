@@ -2,15 +2,16 @@
 
 Made this app to improve react concepts fetching data from github API.
 It searches repositories and list their issues.
-You can simply run:
 
-yarn:
+How to run using:
+
+yarn
 
 ```
 $ yarn start
 ```
 
-npm:
+npm
 
 ```
 $ npm run start
